@@ -1,0 +1,16 @@
+name: 勇者不惧
+author: Qin GUO
+markdown: redcarpet
+pygments: true
+baseurl: 
+description: Blog of Qin GUO
+github: https://github.com/QinGuo
+twitter: http://www.twitter.com/
+facebook: https://www.facebook.com/
+linkedin:  https://www.linkedin.com/pub/qin-guo/80/b56/491/
+email: guoqinzju@gmail.com
+location: 42°2'16"N   70°12'47"W
+disqus: SmallFrog
+
+##Make sure to edit the above fields, especially for disqus.
+

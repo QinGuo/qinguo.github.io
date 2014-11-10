@@ -1,13 +1,41 @@
-# Midnight
+Herring Cove
+============
 
-Open source content for Midnight theme. Theme was first designed / developed for GitHub Pages and is availalbe for download, forking and using anywhere else on the web. Like the theme share it with the twitterverse.
+Herring Cove is a clean and responsive theme for Jekyll. 
 
-![Midnight Theme](http://f.cl.ly/items/2G0Q031t2K3h0F2i3V1E/Screen%20Shot%202012-12-25%20at%208.38.55%20AM.png)
 
-The Midnight Pages demo is [here](http://mattgraham.github.com/midnight)
+### Overview 
 
-*Note Additional font characters for OpenSans typeface can be found in [v1.1](https://github.com/mattgraham/Midnight/archive/v1.1.zip)
+* Fixed Sidebar with social links
+* Minimal design 
+* Comments by Disqus
+* Social Sharing abilities 
+* Easy to configure
+* Based on Bootstrap
 
-Theme by [Matt Graham](http://madebygraham.com), twitter [@michigangraham](http://twitter.com/#!/michigangraham)
+### Screenshots
 
-[Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/)
+![screenshot](/images/screenshot1.png)
+![screenshot](/images/screenshot2.png)
+
+### Setup
+
+1. Install Jekyll
+2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
+3. Edit the `_config.yml` file
+
+You can change the showcase image by replacing `showcase.jpg` file in the `images` folder. I'll try to find a better way to do this soon. 
+
+### Download
+
+[download](https://github.com/arnp/herring-cove/archive/master.zip)
+
+### License
+* [MIT](http://opensource.org/licenses/MIT)
+
+-------------
+Herring Cove is always a work in progress and as such, I hope to clean up the code and add features as time permits. Feel free to add your own additions. 
+
+*What's with the name?*
+
+[Herring Cove](http://www.capecodbeachchair.com/beachguide/index.cfm?page=3&BeachID=5) is a beach on Cape Cod in Provincetown, Massachusetts. If you're in the area, be sure to check it out!
