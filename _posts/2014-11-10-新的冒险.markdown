@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "新的冒险!"
+date:   2014-11-10 23:34:16
+categories: gq update
+---
+
+最近因为做手的跟踪遇到了一些阻碍，一时半会儿无法解决。所以尝试了很多无关跟踪项目新鲜的技术。Computer Graphics不是我最喜欢的领域，希望未来能做和data相关的工作。经过很多思考很权衡，觉得visualization
+是一个比较理想的切入点，visualization是computer graphics和data交汇之处，也易于与computer vison交汇，通过这个领域，我可以深入到machine learning， data mining，也可以接触到很多front-end
+和back-end的技术。
+
+简单列一下正在学习和计划的技术： D3.js Node.js
+
+未来还打算搞一下Hadoop，本科毕设曾经用过MySQL,MongoDB,Nginx,也实现了一个SOA系统，但当时对为什么要
+组织成这种架构认识是不深入的，现在才明白很多东西的价值所在。所以有时候，我们做一件事情，不一定在当时能带来
+什么好处，但有了一段积累了再回头一看，有种豁然开朗的感觉。愿这样的领悟让我选择道路是更平和，更忠于自己内心。
+
+
+{% include disqus.html %}
